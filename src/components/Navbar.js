@@ -28,7 +28,7 @@ export default Navbar;
 
 const Containers = styled.div`
    background-color: #111111;
-   width: 100vw;
+   width: 100%;
    height: 90px;
    display: flex;
    justify-content: center;

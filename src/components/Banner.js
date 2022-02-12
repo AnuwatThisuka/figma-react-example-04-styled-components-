@@ -36,7 +36,7 @@ export default Banner;
 
 const Banners = styled.div`
    background-color: #111111;
-   width: 100vw;
+   width: 100%;
    height: 85vh;
    display: flex;
    justify-content: center;
@@ -46,7 +46,6 @@ const Banners = styled.div`
       height: 80vh;
       justify-content: center;
       align-items: center;
-      box-sizing: border-box;
    }
    .hello-con {
       display: flex;

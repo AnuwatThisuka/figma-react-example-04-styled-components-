@@ -1,32 +1,27 @@
 import React from "react";
 import styled from "styled-components";
 
-function Experience() {
+function Education() {
    return (
-      <Experiences className="experience">
+      <Educations className="experience">
          <div className="exp-container">
             <div className="header-exp">
-               <p>Experience</p>
+               <p>Education</p>
             </div>
             <div className="exp-info">
                <div className="exp-info-1">
                   <div className="info1-con">
-                     <p>Frontend Engineer (Remote)</p>
+                     <p>University of Toronto</p>
                   </div>
                   <div className="pre-exp">
-                     <p>Jul 2021 - Present</p>
+                     <p>2018 / 2021</p>
                   </div>
                </div>
                <div className="location-1">
-                  <p> Selfbook / US - New York</p>
+                  <p>Canada</p>
                </div>
                <div className="info-exp">
-                  <p>
-                     - Developing screens and UI components for the web
-                     application using React and Tailwind.
-                     <br />- Fixing UI issues and integrating backend APIs with
-                     Redux Saga.
-                  </p>
+                  <p>- Bachelor's degree in communication</p>
                </div>
                <div className="exp-info-1">
                   <div className="info1-con">
@@ -68,13 +63,13 @@ function Experience() {
                </div>
             </div>
          </div>
-      </Experiences>
+      </Educations>
    );
 }
 
-export default Experience;
+export default Education;
 
-const Experiences = styled.div`
+const Educations = styled.div`
    background-color: #111111;
    width: 100%;
    height: auto;
