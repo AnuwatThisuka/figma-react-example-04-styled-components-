@@ -63,6 +63,557 @@ function Project() {
                   </div>
                </div>
             </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div className="info-pro-2">
+               <div className="pro2">
+                  <div className="pro">
+                     <div className="imgpro">
+                        <img src={Pro1} alt="" />
+                     </div>
+                     <div className="namepro-con">
+                        <div className="namepro">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link-out-side-pro">
+                           <div className="logo-link">
+                              <img src={git} alt="" />
+                              <img src={link} alt="" />
+                           </div>
+                        </div>
+                     </div>
+                     <div className="info-pro-1">
+                        <p>
+                           Proxy provider website including
+                           authentication,dashboard and dynamic features
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
          </div>
       </Projects>
    );
@@ -72,23 +623,20 @@ export default Project;
 
 const Projects = styled.div`
    width: 100%;
-   height: 1000px;
    background-color: #111111;
-   border: 1px solid red;
    display: flex;
    justify-content: center;
 
    .project-con {
       width: 85vw;
-      height: 1000px;
-      display: flex;
-      justify-content: space-between;
-      border: 1px solid yellow;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      column-gap: 85px;
+      row-gap: 20px;
    }
    .pro {
       height: 500px;
       width: 500px;
-      border: 1px solid red;
    }
    .imgpro img {
       width: 500px;
@@ -100,7 +648,6 @@ const Projects = styled.div`
       display: flex;
       justify-content: space-between;
       align-items: center;
-      border: 1px solid red;
    }
    .namepro-con p {
       font-size: 18px;
@@ -140,6 +687,5 @@ const Projects = styled.div`
    .pro2 {
       height: 500px;
       width: 500px;
-      border: 1px solid white;
    }
 `;
