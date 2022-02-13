@@ -57,7 +57,7 @@ const Banners = styled.div`
       font-size: 18px;
       color: #1a1a1a;
       letter-spacing: 2px;
-      font-weight: 300px;
+      font-weight: 300;
    }
    .user-name {
       display: flex;
@@ -78,7 +78,7 @@ const Banners = styled.div`
    .about-info {
       margin-top: 20px;
       display: flex;
-      width: 50vw;
+      width: 100%;
       height: auto;
       align-items: center;
    }
@@ -108,6 +108,6 @@ const Banners = styled.div`
       background: linear-gradient(to right, #9845e8, #33d2ff, #dd5789 90%);
       background-clip: text;
       -webkit-text-fill-color: transparent;
-      transition: all 1 ease;
+      transition: all 0.5s;
    }
 `;
