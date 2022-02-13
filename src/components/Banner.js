@@ -41,14 +41,12 @@ export default Banner;
 const Banners = styled.div`
    background-color: #ffffff;
    width: 100%;
-   height: 85vh;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-
+   height: auto;
+   display: grid;
+   place-items: center;
    .banner-con {
       max-width: 85vw;
-      height: 80vh;
+      height: auto !important;
       justify-content: center;
       align-items: center;
    }
@@ -115,5 +113,24 @@ const Banners = styled.div`
       background-clip: text;
       -webkit-text-fill-color: transparent;
       transition: all 0.5s;
+   }
+   @media screen and (max-width: 768px) {
+      .hello-con {
+         display: block;
+         border: 1px solid red;
+      }
+      .about-info {
+         display: block;
+      }
+      .about-info p {
+         font-size: 12px;
+         color: #1a1a1a;
+      }
+      .user-name {
+         display: block;
+      }
+      .user-name p {
+         font-size: 12px;
+      }
    }
 `;
