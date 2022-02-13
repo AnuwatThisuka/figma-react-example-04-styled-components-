@@ -48,7 +48,7 @@ const Containers = styled.div`
    }
    .navbarlogo a {
       font-size: 30px;
-      font-weight: 250;
+      font-weight: 200;
       color: #1a1a1a;
       text-decoration: none;
    }
@@ -69,7 +69,7 @@ const Menulink = styled.div`
    }
    .menu-con a {
       font-size: 18px;
-      font-weight: 300;
+      font-weight: 200;
       color: #1a1a1a;
       text-decoration: none;
    }

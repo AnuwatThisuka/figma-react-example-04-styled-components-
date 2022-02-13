@@ -95,7 +95,7 @@ const Experiences = styled.div`
    .header-exp p {
       color: #1a1a1a;
       font-size: 20px;
-      font-weight: 400;
+      font-weight: 300;
       text-transform: uppercase;
    }
    .exp-info {
@@ -115,7 +115,7 @@ const Experiences = styled.div`
    }
    .info1-con p {
       font-size: 20px;
-      font-weight: 400;
+      font-weight: 300;
    }
    .pre-exp {
       width: auto;
@@ -124,7 +124,7 @@ const Experiences = styled.div`
    .pre-exp p {
       font-size: 18px;
       color: #1a1a1a;
-      font-weight: 300;
+      font-weight: 200;
    }
    .location-1 {
       width: 70vw;
@@ -133,7 +133,7 @@ const Experiences = styled.div`
    .location-1 p {
       font-size: 18px;
       color: #6cace4;
-      font-weight: 300;
+      font-weight: 200;
    }
    .info-exp {
       width: 70vw;
@@ -142,7 +142,7 @@ const Experiences = styled.div`
    .info-exp p {
       font-size: 18px;
       color: #1a1a1a;
-      font-weight: 300;
+      font-weight: 200;
    }
    /*-------------------------------------------------------------*/
 `;

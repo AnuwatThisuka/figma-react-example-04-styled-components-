@@ -127,6 +127,29 @@ function Project() {
                         <p>React - Bootstrap - Styled Components</p>
                      </div>
                   </div>
+                  <div className="card">
+                     <img src={imgpro1} alt="" />
+                     <div className="name-pro">
+                        <div className="name">
+                           <p>IntenseProxy</p>
+                        </div>
+                        <div className="link">
+                           <img src={git} alt="" />
+                           <img src={link} alt="" />
+                        </div>
+                     </div>
+                     <div className="info-pro">
+                        <p>
+                           Lorem ipsum dolor sit amet consectetur adipisicing
+                           elit. Possimus quos odio labore debitis quis
+                           laudantium, hic dicta excepturi quia ex, fugit neque
+                           sed sint? Recusandae commodi nemo quod nisi dolorem.
+                        </p>
+                     </div>
+                     <div className="tech">
+                        <p>React - Bootstrap - Styled Components</p>
+                     </div>
+                  </div>
                </div>
             </div>
          </div>
@@ -157,7 +180,7 @@ const Projects = styled.div`
       font-size: 20px;
       color: #1a1a1a;
       text-transform: uppercase;
-      font-weight: 400;
+      font-weight: 300;
    }
    .project-con-info {
       display: grid;
@@ -195,7 +218,7 @@ const Projects = styled.div`
    .name p {
       font-size: 20px;
       color: #111111;
-      font-weight: 400px;
+      font-weight: 300;
       text-transform: uppercase;
    }
    .link {
@@ -215,7 +238,7 @@ const Projects = styled.div`
    .info-pro p {
       font-size: 18px;
       color: #111111;
-      font-weight: 300;
+      font-weight: 200;
    }
    .tech {
       width: 100%;
@@ -226,7 +249,7 @@ const Projects = styled.div`
    .tech p {
       font-size: 18px;
       color: #004e93;
-      font-weight: 300;
+      font-weight: 200;
    }
    .card:hover {
       box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,

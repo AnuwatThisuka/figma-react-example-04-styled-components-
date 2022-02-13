@@ -73,7 +73,7 @@ const Contracts = styled.div`
    .page-con p {
       font-size: 20px;
       color: #1a1a1a;
-      font-weight: 400;
+      font-weight: 300;
       text-transform: uppercase;
    }
    .link {
@@ -86,14 +86,10 @@ const Contracts = styled.div`
    .logo-link {
       width: 200px;
       height: 100%;
-
       justify-content: center;
       display: flex;
-   }
-   .logo-link:hover {
       border-radius: 10px;
       border: 1px solid #c6c6c6;
-      transition: all 0.6s;
    }
    .link ul {
       display: flex;
@@ -116,7 +112,7 @@ const Contracts = styled.div`
    .link ul li a {
       font-size: 18px;
       color: #1a1a1a;
-      font-weight: 300;
+      font-weight: 200;
       text-decoration: none;
    }
 `;
