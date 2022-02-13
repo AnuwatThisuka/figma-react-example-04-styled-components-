@@ -27,7 +27,7 @@ function Navbar() {
 export default Navbar;
 
 const Containers = styled.div`
-   background-color: #111111;
+   background-color: #ffffff;
    width: 100%;
    height: 90px;
    display: flex;
@@ -48,8 +48,8 @@ const Containers = styled.div`
    }
    .navbarlogo a {
       font-size: 30px;
-      font-weight: 500;
-      color: #f0f0f0f0;
+      font-weight: 250;
+      color: #1a1a1a;
       text-decoration: none;
    }
 `;
@@ -70,11 +70,11 @@ const Menulink = styled.div`
    .menu-con a {
       font-size: 18px;
       font-weight: 300;
-      color: white;
+      color: #1a1a1a;
       text-decoration: none;
    }
    .menu-con a:hover {
-      background: linear-gradient(to right, #9845e8, #33d2ff, #dd5789 90%);
+      background: linear-gradient(to right, #9845e8, #33d2ff, #dd5789 94%);
       background-clip: text;
       -webkit-text-fill-color: transparent;
       transition: all 1 ease;

@@ -35,7 +35,7 @@ function Banner() {
 export default Banner;
 
 const Banners = styled.div`
-   background-color: #111111;
+   background-color: #ffffff;
    width: 100%;
    height: 85vh;
    display: flex;
@@ -55,7 +55,7 @@ const Banners = styled.div`
    }
    .hello-con p {
       font-size: 18px;
-      color: white;
+      color: #1a1a1a;
       letter-spacing: 2px;
       font-weight: 300px;
    }
@@ -84,7 +84,7 @@ const Banners = styled.div`
    }
    .about-info p {
       font-size: 18px;
-      color: #f0f0f0;
+      color: #1a1a1a;
       font-weight: 300;
    }
    .btn-say {
@@ -101,7 +101,7 @@ const Banners = styled.div`
    }
    .btn-say li a {
       font-size: 24px;
-      color: #f0f0f0f0;
+      color: #1a1a1a;
       text-decoration: none;
    }
    .btn-say li a:hover {
