@@ -128,7 +128,8 @@ const Banner = styled.div`
    }
    @media screen and (max-width: 768px) {
       .banner-con {
-         display: block;
+         display: grid;
+         grid-template-rows: 1;
       }
       .name-con {
          display: block;
